@@ -66,4 +66,13 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.4"
   }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1"
+  }
+}
 }
